@@ -14,6 +14,7 @@ Tags and their corresponding owners should be listed in each repository's config
 
 When a pull request is created, Friday will check if its title begins with `fix` or `feat`. It so, it will add a `pr:bugfix` or `pr:feature`, and a `qa:untested` label and assign it to QA team members. Friday will forbid a PR to being merged before the `qa:untested` label is removed and a `qa:verified` label is added.
 
+## Translate non-English issues to English issues
 
 ## Setup
 
